@@ -67,5 +67,5 @@ if __name__ == "__main__":
     
     print(x_train.shape , x_test.shape)
     assert (x_test.shape[1] == x_train.shape[1])
-    assert((x_train.shape[1] == 2))
-    assert((x_test.shape[1] == 2))
+    assert((y_train.shape[1] == 2))
+    assert((y_test.shape[1] == 2))
