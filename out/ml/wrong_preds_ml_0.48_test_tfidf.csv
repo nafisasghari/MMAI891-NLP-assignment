@@ -1,0 +1,217 @@
+,Sentence,Polarity,Sent_length,more_that_2_exm,words_count,clean_text,y_pred,y_proba
+12,Not too screamy not to masculine but just right.  ,1,50,0,9,not scream not masculine right,0,0.3189326202013136
+17,Even worse than Ticker!  ,0,25,0,4,worse ticker,1,0.4914302314122978
+20,It just blew.  ,0,15,0,3,blew,1,0.4904019266293421
+22,"I just cant explain this movie more than romantic,charming,hilarious,and adorable.The junkyard scenes are funny,all the junkyard dogs have something special.Too funny i laughed,kids will LOVE it.Buy it when it comes out,it has new features!  ",1,242,0,34,not explain movie romantic charming hilarious adorable junkyard scenes funny junkyard dogs special funny laughed kids love buy comes new features,0,0.3791272631021434
+24,This show is made for Americans - it is too stupid and full with hatred and clichés to be admitted elsewhere.  ,0,111,0,20,americans stupid hatred cliches admitted,1,0.4814103266955213
+26,"I wish I could enter negative values, admins?  ",0,47,0,8,wish enter negative values admins,1,0.4894270507152221
+29,"Oh yeah, and the storyline was pathetic too.  ",0,46,0,8,yeah storyline pathetic,1,0.4894270507152221
+33,It came free with a DVD player I bought but I still turned the thing off halfway through because I was embarrassed for Howell.  ,0,128,0,24,came free player bought turned thing halfway embarrassed howell,1,0.4814103266955213
+36,"The soundtrack wasn't terrible, either.  ",1,41,0,5,soundtrack not terrible,0,0.2281467111571206
+39,"Yes, I am simplifying things here for the sake of brevity, for this really is at the core of the problems with this film - it has too much going on without any real, fulfilling explanation.  ",0,191,0,35,yes simplifying things sake brevity core problems film going real fulfilling explanation,1,0.4814103266955213
+43,The last 15 minutes of movie are also not bad as well.  ,1,56,0,12,minutes movie not bad,0,0.12482243316990038
+44,"Bela Lugosi was totally extraneous, intoning odd lines.  ",0,57,0,8,bela lugosi totally extraneous intoning odd lines,1,0.4878481359123976
+46,"I like Armand Assante & my cable company's summary sounded interesting, so I watched it, twice already, and probably will again.  ",1,130,0,20,like armand ashanti cable company summary sounded interesting watched twice probably,0,0.45743537751433694
+49,"I won't say any more - I don't like spoilers, so I don't want to be one, but I believe this film is worth your time.  ",1,118,0,25,not not like spoilers not want believe film worth time,0,0.29404931265471107
+57,If only someone involved with it knew how to string together narrative!  ,0,73,0,12,involved knew string narrative,1,0.4849826782882903
+58,"This gets a 1 out of 10, simply because there's nothing lower.  ",0,64,0,12,gets simply lower,1,0.4852742794756484
+62,"Considering the relations off screen between Taylor and Stanwyck, it was surprising how little chemistry there was on screen between the two of them.  ",0,151,0,24,considering relations screen taylor stack surprising little chemistry screen,1,0.4814103266955213
+63,But the premise of the film was so ridiculous: that the President of the U.S.  ,0,79,0,15,premise film ridiculous president,1,0.48814920445936244
+64,The death row scenes were entirely unmoving.  ,0,46,0,7,death row scenes entirely unmoving,1,0.4894270507152221
+70,Even the squibs look awful.  ,0,29,0,5,squibs look awful,1,0.4914302314122978
+75,The dialogue is composed of things that make little sense.  ,0,60,0,10,dialogue composed things little sense,1,0.48286271317187285
+77,The directing is sloppy at best.  ,0,34,0,6,directing sloppy best,1,0.6424938559214378
+79,"Of course, the acting is blah.  ",0,32,0,6,course acting blah,1,0.49250061728334815
+80,The acting by the whole cast could be put on a scale and balanced perfectly between overacting and underacting.  ,0,113,0,19,acting cast scale balanced perfectly overacting interacting,1,0.4814103266955213
+81,"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.  ",0,139,0,25,finally ending great handled competent people not jerry falwell,1,0.5567544199773417
+84,"This movie contained an all-star cast, and what I loved the most was that it opened my eyes to see other actors who I haven't seen before.  ",1,140,0,27,movie contained star cast loved opened eyes actors not seen,0,0.34002140939476455
+85,"This movie was kind of long in length, but I enjoyed every minute of it.  ",1,74,0,15,movie kind long length enjoyed minute,0,0.4783649971055348
+87,"Lifetime does not air it enough, so if anyone knows what store sells it let me know because this is a must-have.  ",1,114,0,22,lifetime not air knows store sells let know,0,0.2884611864951563
+91,"This movie creates its own universe, and is fascinating in every way.  ",1,71,0,12,movie creates universe fascinating way,0,0.478403765750073
+95,"And I forgot: The Casting here i superb, with Trond Fausa Aurvåg being perfect in the role as the Bothersome Man, who doesn't understand where he is, what he is doing and why.  ",1,177,0,33,forgot casting superb trend fauna aura perfect role bothersome man not understand,0,0.407462613873149
+108,What this film lacks is a convincing script.  ,0,46,0,8,film lacks convincing script,1,0.4894270507152221
+109,The script looks as if only a rough draft was written and shooting began before a finished script was completed.  ,0,114,0,20,script looks rough draft written shooting began finished script completed,1,0.4814103266955213
+110,"Things happen, characters personalities change, plot twists occur for no real reason other than that script calls for it.  ",0,123,0,19,things happen characters personalities change plot twists occur no real reason script calls,1,0.4814103266955213
+114,It is indescribably the most annoying and idiotic show I have ever seen.  ,0,74,0,13,indescribably annoying idiotic seen,1,0.4849826782882903
+119,Final Word: This Show is a real torture!!  ,0,43,1,8,final word real torture,1,0.49698162220533526
+124,"Full of unconvincing cardboard characters it is blandly written by Edward Chodorov, who also produced, and is surprisingly directed by Jean Negulesco from whom one would expect a great deal more.  ",0,197,0,31,unconvincing cardboard characters blandly written edward comoros produced surprisingly directed jean neglect expect great deal,1,0.7158885200569415
+125,From here on the Widmark character turns unintentionally comical!  ,0,67,0,9,bismark character turns unintentionally comical,1,0.48708796664061826
+126,His losing his marbles so early in the proceedings is totally implausible and unconvincing.  ,0,93,0,14,losing marbles early proceedings totally implausible unconvincing,1,0.4849826782882903
+128,Whatever prompted such a documentary is beyond me!  ,0,52,0,8,prompted documentary,1,0.4878481359123976
+134,but the movie makes a lot of serious mistakes.  ,0,48,0,9,movie makes lot mistakes,1,0.4878481359123976
+135,"first of all, there are enough racial stereotypes and racial jokes to offend everyone.  ",0,88,0,14,racial stereotypes racial jokes offend,1,0.4849826782882903
+136,the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.  ,0,137,0,24,movie littered overt racial slurs black cast members return whites depicted morons boobs,1,0.4814103266955213
+137,"putting the race card aside, lets look at the major flaw in the film: they destroy latifa's character.  ",0,104,0,18,putting race card aside lets look major flaw film destroy latina character,1,0.48814920445936244
+141,This second appearance of Mickey Mouse (following the silent PLANE CRAZY earlier that year) is probably his most famous film--mostly because it was so ground-breaking.  ,1,169,0,25,second appearance mickey mouse following silent plane crazy earlier year probably famous film ground breaking,0,0.46618662293687385
+142,"While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.  ",1,181,0,32,not hear mickey speak tons sound effects music film granted huge crowd,0,0.33571061309996425
+144,"It's just adorable seeing Mickey playing ""Turkey in the Straw"" in a highly imaginative (if occasionally cruel) way.  ",1,117,0,18,adorable seeing mickey playing turkey straw highly imaginative occasionally cruel way,0,0.47067554803398715
+146,"The bipolarity of the ruthless thug (one minute a ruthless killer, the next minute a Luv's diaper commercial) is completely unconvincing.  ",0,139,0,21,bipolarity ruthless thug minute ruthless killer minute lug diaper commercial completely unconvincing,1,0.4814103266955213
+147,"I'm terribly disappointed that this film would receive so many awards and accolades, especially when there are far more deserving works of film out there.  ",0,156,0,25,terribly disappointed film receive awards accolades especially far deserving works film,1,0.5867570635179001
+154,It's a shame to see good actors like Thomerson and James make a living in a mess like this.  ,0,93,0,19,shame good actors like thompson james living mess like,1,0.6140165505808781
+158,The script is a big flawed mess.  ,0,34,0,7,script big flawed mess,1,0.49250061728334815
+159,The best example of how dumb the writing is when it's established that you can turn the zombie-students back into humans by removing a necklace containing a piece of the meteorite.  ,0,182,0,31,best example dumb writing established turn zombie students humans removing necklace contains piece meteorite,1,0.5856215439686884
+161,The movie is terribly boring in places.  ,0,41,0,7,movie terribly boring places,1,0.48504922266092343
+162,The lighting is awful.  ,0,24,0,4,lighting awful,1,0.4914302314122978
+166,The visual effects were AWFUL.  ,0,32,0,5,visual effects awful,1,0.49250061728334815
+168,"The ""explosion"" of the Gas tanks at the end was just as awful.  ",0,64,0,13,explosion gas tanks end awful,1,0.4852742794756484
+179,The budget was evidently very limited.  ,0,40,0,6,budget evidently limited,1,0.49250061728334815
+182,Filmiing was less expansive.  ,0,30,0,4,filming expansive,1,0.4914302314122978
+183,It failed to convey the broad sweep of landscapes that were a great part of the original.  ,0,91,0,17,failed convey broad sweep landscapes great original,1,0.7208059624313458
+184,Generally; it just lacked imagination.  ,0,40,0,5,generally lacked imagination,1,0.49250061728334815
+186,Is it possible for a movie to get any worse than this?  ,0,56,0,12,possible movie worse,1,0.4857428475600696
+188,"Even when the women finally show up, there is no sign of improvement; the most expected things happen and by the time the film is over, you might be far asleep.  ",0,162,0,31,women finally no sign improvement expected things happen time film far asleep,1,0.4814103266955213
+195,"Easily, none other cartoon made me laugh in a tender way (before getting into dark sitcoms oriented for teenagers).  ",1,117,0,19,easily cartoon laugh tender way getting dark sitcoms oriented teenagers,0,0.4614980808239707
+196,The characters were all funny and had the peculiarity of not having a true lead character.  ,1,92,0,16,characters funny peculiarity not having true lead character,0,0.2922303722155699
+202,I saw this movie and I thought this is a stupid movie.  ,0,56,0,12,saw movie thought stupid movie,1,0.4857428475600696
+203,What is even more stupid is that who had thought an idea that there should be a volcano in Los Angeles?  ,0,105,0,21,stupid thought idea volcano los angeles,1,0.4830316637722015
+204,"To be honest with you, this is unbelievable nonsense and very foolish.  ",0,72,0,12,honest unbelievable foolish,1,0.4849826782882903
+206,The story line is just awful!  ,0,31,0,6,story line awful,1,0.4914302314122978
+207,It's just painful!  ,0,20,0,3,painful,1,0.4904019266293421
+208,And the accents are absolutely abysmal!  ,0,41,0,6,accents absolutely abysmal,1,0.4897230454198525
+209,There's also enough hypocrisy in this film to make me vomit.  ,0,62,0,11,hypocrisy film vomit,1,0.4903918201628093
+212,"The characters are interesting and you want to find out more about them the longer the movie goes on, and I think people will be surprised by who does and doesn't make it.  ",1,173,0,33,characters interesting want find longer movie goes think people surprised not,0,0.3941951797827973
+214,Omit watching this.  ,0,21,0,3,omit watching,1,0.4904019266293421
+216,My rating: just 3 out of 10.  ,0,30,0,7,rating,1,0.4914302314122978
+219,Don't miss it.  ,1,16,0,3,not miss,0,0.27937688930723076
+223,"It's as continuously beautiful to look at as a Bertolucci, but the relationships here are more convincing and the narrative more engaging than some of that master's work.  ",1,172,0,28,continuously beautiful look relationships convincing narrative engaging master work,0,0.4789457458909989
+224,The basic premise is wasted since it is sidelined by the inexplicable focus on the documentary crew.  ,0,102,0,17,basic premise wasted sidelined inexplicable focus documentary crew,1,0.4830316637722015
+225,"Regardless, the film fails on most levels.  ",0,44,0,7,regardless film fails levels,1,0.4894270507152221
+226,Avoid at all costs.  ,0,21,0,4,avoid costs,1,0.4914302314122978
+233,"I know that Jim O'Connor was very energetic and that nobody could be as much as him, but George was well dull.  ",0,112,0,22,know jim condor energetic george dull,1,0.4814103266955213
+247,The least said about the acting the better.  ,0,45,0,8,said acting better,1,0.4894270507152221
+249,I believe every one should see this movie as I think few people outside of South Africa understand its past and what is being attempted in the Truth and Reconciliation process.  ,1,178,0,31,believe movie think people outside south africa understand past attempted truth reconciliation process,0,0.47137980144131253
+252,Don't be afraid of subtitles........ its worth a little aversion therapy 10/10  ,1,80,0,12,not afraid subtitles worth little aversion therapy,0,0.2923344130601184
+258,"Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil.  ",1,178,0,33,helen glendale credible lady macbeth cheerful times looks like naughty girl deadly taste blood evil,0,0.4639173325920197
+265,"Unless you're just out to visually ""collect"" all extant films of Austen's work, you can skip this one.  ",0,104,0,18,visually collect extant films austen work skip,1,0.4836623210629172
+268,"Speaking of the music, it is unbearably predictably and kitchy.  ",0,65,0,10,speaking music unbearably predictably itchy,1,0.48737956782797637
+269,Then the film just dropped the ball.  ,0,38,0,7,film dropped ball,1,0.49250061728334815
+274,Tom Wilkinson broke my heart at the end... and everyone else's judging by the amount of fumbling for hankies and hands going up to faces among males and females alike.  ,1,169,0,30,tom wilkinson broke heart end judging fumbling hankies hands going faces males females alike,0,0.4775473393116887
+285,"There are many continuity errors: one other user commented on different cars in the garage, Joe's glasses...the one that got to me the most was the fact Joe's facial hair configuration seemed to change from scene to scene.  ",0,224,0,38,continuity errors user commented different cars garage joe glasses got fact joe facial hair configuration change scene scene,1,0.4814103266955213
+290,Punishment Park is a brilliant piece of cinema.  ,1,49,0,8,punishment park brilliant piece cinema,0,0.42955376029187775
+291,"Shot in the Southern California desert using his patent faux documentary style, Watkins creates a film like no other.  ",1,119,0,19,shot southern california desert patent faux documentary style watkins creates film like no,0,0.40489337457698227
+294,You wont regret it!  ,1,21,0,4,not regret,0,0.29925266570474623
+300,"It is a film about nothing, just a pretext to show ridiculous action scenes.  ",0,78,0,14,film pretext ridiculous action scenes,1,0.49010021897545125
+301,How awful she is!  ,0,19,0,4,awful,1,0.4914302314122978
+303,"The results, well, are a shame.  ",0,33,0,6,results shame,1,0.49250061728334815
+304,DELETE this film from your mind!  ,0,34,0,6,delete film mind,1,0.49250061728334815
+306,The show would begin with smart ass ed comments to each other that would be totally off the wall and uncalled for.  ,0,116,0,22,begin smart ass de comments totally wall uncalled,1,0.4814103266955213
+308,Never heard of any of them except Cole who was totally unbelievable in the part.  ,0,82,0,15,heard cole totally unbelievable,1,0.4830316637722015
+310,The stories were as unbelievable as the actors.  ,0,49,0,8,stories unbelievable actors,1,0.4878481359123976
+311,Lame would be the best way to describe it.  ,0,44,0,9,lame best way describe,1,0.6124559615834765
+315,"Im big fan of RPG games too, but this movie, its a disgrace to any self-respecting RPGer there is.  ",0,100,0,19,big fan reg games movie disgrace self respecting roger,1,0.4830316637722015
+316,"The lines, the cuts, the audio, everything is wrong.  ",0,54,0,9,lines cuts audio wrong,1,0.4878481359123976
+317,You can find better movies at youtube.  ,0,40,0,7,find better movies youtube,1,0.4973316037873385
+319,"A Lassie movie which should have been ""put to sleep"".... FOREVER.  ",0,67,0,11,lassie movie sleep forever,1,0.4849826782882903
+320,That's how I'd describe this painfully dreary time-waster of a film.  ,0,70,0,11,describe painfully dreary time waster film,1,0.49010021897545125
+321,"So mediocre in every aspect that it just becomes a dull, uninteresting mess, this is one of the most forgettable movies I've seen.  ",0,132,0,23,mediocre aspect dull uninteresting mess forgettable movies seen,1,0.4814103266955213
+323,"It's an empty, hollow shell of a movie.  ",0,41,0,8,hollow shell movie,1,0.48504922266092343
+325,"Avoid, avoid, avoid!  ",0,22,0,3,avoid avoid,1,0.4904019266293421
+326,It will drive you barking mad!  ,0,32,0,6,drive barking mad,1,0.49250061728334815
+335,Nothing new there.  ,0,20,0,3,new,1,0.4904019266293421
+336,That was done in the second movie.  ,0,36,0,7,second movie,1,0.49250061728334815
+338,The plot has more holes than a pair of fishnet stockings and the direction and editing is astonishingly ham fisted.  ,0,117,0,20,plot holes pair fishnet stockings direction editing astonishingly ham listed,1,0.4814103266955213
+339,What on earth is Irons doing in this film?  ,0,44,0,9,earth irons film,1,0.4894270507152221
+350,The football scenes at the end were perplexing.  ,0,49,0,8,football scenes end perplexing,1,0.4878481359123976
+354,It is rare when a film-maker takes the time to tell a worthy moral tale with care and love that doesn't fall into the trap of being overly syrupy or over indulgent.  ,1,166,0,32,rare film maker takes time tell worthy moral tale care love not fall trap overly syrupy indulgent,0,0.41305502726597026
+359,This scene is very strong and unpleasant.  ,0,43,0,7,scene strong unpleasant,1,0.4894270507152221
+363,I liked the way Dustin Hoffman's character was ready to do just about everything to stay with his son.  ,1,104,0,19,liked way dustin hoffman character ready stay son,0,0.4714527512339842
+366,And it was boring.  ,0,20,0,4,boring,1,0.4914302314122978
+375,You won't forget this movie!  ,1,30,0,5,not forget movie,0,0.28142650497616706
+376,Why was this film made?  ,0,25,0,5,film,1,0.4914302314122978
+377,The film has an ultra-cheap look to it.  ,0,41,0,8,film ultra cheap look,1,0.48109994729860445
+379,None of them are engaging or exciting.  ,0,40,0,7,engaging exciting,1,0.49250061728334815
+391,"This film highlights the fundamental flaws of the legal process, that it's not about discovering guilt or innocence, but rather, is about who presents better in court.  ",1,169,0,27,film highlights fundamental flaws legal process not discovering guilt innocence presents better court,0,0.3353231645810627
+394,"Predictable, but not a bad watch.  ",1,35,0,6,predictable not bad watch,0,0.1643593788644286
+401,Avoid at ALL costs!  ,0,21,0,4,avoid costs,1,0.4914302314122978
+405,The only place good for this film is in the garbage.  ,0,54,0,11,place good film garbage,1,0.6210447830494441
+408,"When a song could explain the emotions of the subjects better, such as when Jay Adams' unfortunate life was a subject of talk, the song Old Man by Neil Young was played, which evokes many emotions.  ",1,199,0,36,song explain emotions subjects better jay adams unfortunate life subject talk song old man neil young played evokes emotions,0,0.4760590870260998
+409,Cinematography: The film was shot in an interesting way.  ,1,58,0,9,cinematography film shot interesting way,0,0.46793589004084696
+423,I struggle to find anything bad to say about it.  ,1,50,0,10,struggle find bad,0,0.2498947793450099
+426,"The film deserves strong kudos for taking this stand, for having exceptional acting from its mostly lesser-known cast and for the super-intelligent script that doesn't insult the audience or take the easy way out when it comes to white racism.  ",1,245,0,40,film deserves strong kudos taking stand having exceptional acting lesser known cast super intelligent script not insult audience easy way comes white racism,0,0.3604569000014039
+436,Lot of holes in the plot: there's nothing about how he became the emperor; nothing about where he spend 20 years between his childhood and mature age.  ,0,152,0,27,lot holes plot emperor spend years childhood mature age,1,0.485944739650987
+443,"It has everything you could want... suspense, drama, comedy, confusing subplots, native americans, brain eating... If you're looking for the be-all, end-all of brainsucking movies, look no further.  ",1,199,0,28,want suspense drama comedy confusing subplots native americans brain eating looking end ransacking movies look no,0,0.4565823412285183
+444," With great sound effects, and impressive special effects, I can't recommend this movie enough.  	1
+Call me a nut, but I think this is one of the best movies ever.  	1
+Great character actors Telly Savalas and Peter Boyle.  	1
+1 hour 54 minutes of sheer tedium, melodrama and horrible acting, a mess of a script, and a sinking feeling of GOOD LORD, WHAT WERE THEY THINKING?  	0
+Lots of holes in the script.  	0
+It's like a bad two hour TV movie.  	0
+Now imagine that every single one of those decisions was made wrong.  	0
+The dialogue is atrocious.  	0
+The acting is beyond abysmal.  	0
+Everything stinks.  	0
+Trouble is, the writing and directing make it impossible to establish those things that make a movie watchable, like character, story, theme and so on.  	0
+Worse, there's an incredibly weak sub-plot thrown in that follows a little band of latter-day Mansonites as they go after a reporter who's working on a story on the anniversary of the killings.  	0
+It's dumb and pointless, and a complete waste of time.  	0
+In short, don't bother with this movie.  	0
+I won't spoil it, but the ending in pretty amazing.  	1
+The best scene in the movie is at the end, but I won't spoil it.  	1
+If there was ever an indication of a writer and a director's ability to meld two highly volatile temperaments into a seamless union of creativity, then this is it!  	1
+The result is a powerhouse achievement, made more timely now perhaps because of our culture's disturbing fascination with celebrity, and it's distorted interpretations of fame.  	1
+A film not easily forgotten.  	1
+But, Kevin Spacey is an excellent, verbal tsunami as Buddy Ackerman  and totally believable because he is a great actor.  	1
+The scripting of the subtle comedy is unmatched by any movie in recent years.  	1
+The characters are interesting, even if a bit predictable.  	1
+Highly recommended for all ages, although the younger set will probably not appreciate some of the more subtle references, they will certainly appreciate one galley scene in particular!  	1
+Great movie!  	1
+Also the story and acting were weak.  	0
+At around 4 pm I bought it, at around 8pm I started to watch, at around 8.15pm I fast forwarded the remaining film to see if there was anything left watchable for a human being with a brain... but there wasn't.  	0
+Either way, it sucks.  	0
+The script is horrendously stupid.  	0
+The story starts too fast with absolutely no suspense or build-up in the slightest.  	0
+Everything Captain Howdy says is either laughable or just plain stupid.  	0
+What the hell kind of crap is that?!  	0
+Then, there's the plot holes.  	0
+You could drive a semi truck into these holes!  	0
+Linda Cardellini is the only thing good in this film.  	1
+She's poised and amazing.  	1
+Dee Snider just plain sucks.  	0
+He can't act (one of the least scary villains I have ever seen), he can't write (did he write this damn movie in his sleep?  	0
+I was bored throughout the whole damn thing.  	0
+The acting sucks, the music sucks, the script sucks, the pacing sucks, the special FX suck, the directing sucks... basically, this movie sucks.  	0
+This film tries to be a serious and sophisticated thriller/horror flick and it fails miserably.  	0
+This is probably one of the least effective and utterly unoriginal films I have ever seen in my entire life.  	0
+A piece of cinematic garbage captured on celluloid.  	0
+Avoid at any and all costs.  	0
+At any rate this film stinks, its not funny, and Fulci should have stayed with giallo and supernatural zombie movies.  	0
+Avoid this film at all costs.  	0
+I don't know what happened in Season Five, what a mess.  	0
+The only consistent thread holding the series together were the amazing performances of Leni Parker and Anita LaSelva as the two Taelons in quiet idealogical conflict.  	0
+Now this is a movie I really dislike.  	0
+It's one of the most boring Horror movies from the 90's mainly because it starts slow and centers in a boring atmosphere.  	0
+The puppets look really cheesy , not in a good way like in the Puppet Master 80's flicks.  	0
+The story is lame, not interesting and NEVER really explains the sinister origins of the puppets.  	0
+There aren't death scenes like in previous movies and the f/x are terrible.  	0
+I felt asleep the first time I watched it, so I can recommend it for insomniacs.  	0
+The fact is, this film is a wonderful, heartwarming tale about two people chasing their dreams.  	1
+The best part about Nurse Betty"" is it's unpredictability.  ",1,4541,0,796,great sound effects impressive special effects not recommend movie nut think best movies great character actors telly savages peter boyle hour minutes sheer tedium melodrama horrible acting mess script sinking feeling good lord thinking lots holes script like bad hour movie imagine single decisions wrong dialogue atrocious acting abysmal stinks trouble writing directing impossible establish things movie watchable like character story theme worse incredibly weak sub plot thrown follows little band day mennonites reporter working story anniversary killings dumb pointless complete waste time short not bother movie not spoil ending pretty amazing best scene movie end not spoil indication writer director ability meld highly volatile temperaments seamless union creativity result powerhouse achievement timely culture disturbing fascination celebrity distorted interpretations fame film not easily forgotten kevin spacey excellent verbal tsunami buddy akkerman totally believable great actor scripting subtle comedy unmatched movie recent years characters interesting bit predictable highly recommended ages younger set probably not appreciate subtle references certainly appreciate galley scene particular great movie story acting weak pm bought pm started watch pm fast forwarded remain film left watchable human brain not way sucks script horrendously stupid story starts fast absolutely no suspense build slightest captain howdy says laughable plain stupid hell kind crap plot holes drive semi truck holes linda cancelling thing good film poised amazing dee snider plain sucks not act scary villains seen not write write damn movie sleep bored damn thing acting sucks music sucks script sucks pacing sucks special fax suck directing sucks basically movie sucks film tries sophisticated thriller horror flick fails miserably probably effective utterly unoriginal films seen entire life piece cinematic garbage captured celluloid avoid costs rate film stinks not funny sulci stayed gallo supernatural zombie movies avoid film costs not know happened season mess consistent thread holding series amazing performances lens parker anita silva talons quiet ideological conflict movie dislike boring horror movies mainly starts slow centres boring atmosphere puppets look cheesy not good way like puppet master flicks story lame not interesting explains sinister origins puppets not death scenes like previous movies terrible felt asleep time watched recommend insomniacs fact film wonderful heartwarming tale people chasing dreams best nurse betty unpredictability,0,0.45713543299239184
+445,"Director Neil LaBute uses brutal violence to seperate dreams from reality, and along with the touching drama, and hilarious comedy, you can never tell what is going to happen next.  ",1,182,0,30,director neil bute uses brutal violence separate dreams reality touching drama hilarious comedy tell going happen,0,0.4775473393116887
+447,This one just fails to create any real suspense.  ,0,50,0,9,fails create real suspense,1,0.4931485432443731
+451,"One of the most boring,pointless movies I have ever seen.  ",0,59,0,10,boring pointless movies seen,1,0.4878481359123976
+452,The secondary plot line is incomprehensible and its relation to the primary plot line is mystifying.  ,0,102,0,16,secondary plot line incomprehensible relation primary plot line mystifying,1,0.4830316637722015
+453,Hated it.  ,0,11,0,2,hated,1,0.5019140920200336
+456,I highly doubt that anyone could ever like this trash.  ,0,56,0,10,highly doubt like trash,1,0.49339189838703795
+461,I didn't realize how wonderful the short really is until the last two scenes.  ,1,79,0,14,not realize wonderful short scenes,0,0.28973685140394173
+466,The story line is totally predictable.  ,0,40,0,6,story line totally predictable,1,0.49250061728334815
+467,"Not much dialogue, not much music, the whole film was shot as elaborately and aesthetically like a sculpture.  ",1,111,0,18,not dialogue not music film shot elaborately aesthetically like sculpture,0,0.2950039774952069
+468,I've seen soap operas more intelligent than this movie.  ,0,57,0,9,seen soap operas intelligent movie,1,0.4878481359123976
+470,Really awful.  ,0,15,0,2,awful,1,0.4904019266293421
+473,It was a long time that i didn't see a so charismatic actor on screen.  ,1,72,0,15,long time not charismatic actor screen,0,0.29705496432490147
+475,The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie.  ,1,127,0,24,movie not completely perfect titty geronimo stay long time vision movie,0,0.426232771136042
+477,"I do not know if this was Emilio Estevez's directorial debut, but the pacing, the interplay and development of the characters as well as some clever camera work surrounding the character Estevez plays all suggest a natural eye.  ",1,229,0,38,not know emilio steve directorial debut pacing interplay development characters clever camera work surrounding character steve plays suggest natural eye,0,0.31515840652130894
+486,The story is also both funny and poignant at times.  ,1,53,0,10,story funny poignant times,0,0.4750218084755625
+490,"However, after finally watching this film, I realized that not only had I had a closed mind to the brilliance it depicts, I also found myself watching it over and over again.  ",1,176,0,32,finally watching film realized not closed mind brilliance depicts found watching,0,0.3705567389143375
+494,Think of the film being like a dream.  ,1,39,0,8,think film like dream,0,0.47966972062709673
+499,"Just whatever you do, avoid ""Groove"" as its the antithesis of all that is good about Human Traffic.  ",0,101,0,18,avoid groove antithesis good human traffic,1,0.6678331659526436
+514,"Hayao Miyazaki's latest and eighth film for Studio Ghibili, ""Gake No Ue No Ponyo"" (Ponyo on the Cliff by the Sea) is a wonderfully fun and imaginative look at childhood.  ",1,171,0,30,halo murasaki latest eighth film studio chilli no no pony pony cliff sea wonderfully fun imaginative look childhood,0,0.4054095386251973
+516,Enough can not be said of the remarkable animation in this film.  ,1,66,0,12,not said remarkable animation film,0,0.28444624750317116
+518,"If you act in such a film, you should be glad that you're gonna drift away from earth as far as possible!  ",0,107,0,22,act film glad drift away earth far possible,1,0.4830316637722015
+519,"This one wants to surf on the small wave of space movies in 1998 (Deep Impact and Armageddon), and this one fails everywhere.  ",0,127,0,23,wants surf small wave space movies deep impact armageddon fails,1,0.4814103266955213
+523,"Instead, we got a bore fest about a whiny, spoiled brat babysitting.  ",0,70,0,12,instead got bore fest whiny spoiled brat babysitting,1,0.4849826782882903
+524,"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.  ",1,131,0,26,watched sundays ago march began enjoy time taped entire thing,0,0.47610569093393196
+526,Judith Light is one of my favorite actresses and I think she does a superb job in this film!  ,1,94,0,19,judith light favourite actresses think superb job film,0,0.478952012538487
+529,"If you have not seen this movie, I definitely recommend it!  ",1,61,0,11,not seen movie definitely recommend,0,0.3131757168772281
+540,I never walked out of a movie faster.  ,0,39,0,8,walked movie faster,1,0.49250061728334815
+541,I just got bored watching Jessice Lange take her clothes off!  ,0,63,0,11,got bored watching jessica large clothes,1,0.4852742794756484
+542,"Unfortunately, any virtue in this film's production work was lost on a regrettable script.  ",0,92,0,14,unfortunately virtue film production work lost regrettable script,1,0.4876356381709288
+543,"In a word, it is embarrassing.  ",0,32,0,6,word embarrassing,1,0.49250061728334815
