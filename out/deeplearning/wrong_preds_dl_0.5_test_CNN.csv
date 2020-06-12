@@ -1,140 +1,141 @@
 ,Sentence,Polarity,y_pred,y_proba
-3,It's a feel-good film and that's how I felt when I came out of the cinema!  ,1,0,0.40639013051986694
-10,A world better than 95% of the garbage in the theatres today.  ,1,0,0.029704183340072632
-11,Her role was played well.  ,1,0,0.3175167441368103
-12,Not too screamy not to masculine but just right.  ,1,0,0.05293026566505432
-14,I would have casted her in that role after ready the script.  ,1,0,0.03180977702140808
-15,"As a European, the movie is a nice throwback to my time as a student in the 1980's and the experiences I had living abroad and interacting with other nationalities, although the circumstances were slightly different.  ",1,0,0.2520737946033478
-21,"This movie is excellent!Angel is beautiful and Scamp is adorable!His little yelps when hes scared,and the funniest parts are when:Scamp is caught under the curtain and when Angel and Scamp are singing 'Ive Never Had This Feeling Before'.I totally recommend this movie,its coming out on special edition on June 20.The cover has scamp on a garbage can and Angel underneath the lid.  ",1,0,0.0781782865524292
-36,"The soundtrack wasn't terrible, either.  ",1,0,0.013359755277633667
-38,"Still, it was the SETS that got a big ""10"" on my ""oy-vey"" scale.  ",1,0,0.4571167230606079
-43,The last 15 minutes of movie are also not bad as well.  ,1,0,0.0016285181045532227
-46,"I like Armand Assante & my cable company's summary sounded interesting, so I watched it, twice already, and probably will again.  ",1,0,0.09268426895141602
-47,I believe the screenwriter did a good job of tying up the loose ends.  ,1,0,0.4793655276298523
-48,My 8/10 score is mostly for the plot.  ,1,0,0.1484602689743042
-49,"I won't say any more - I don't like spoilers, so I don't want to be one, but I believe this film is worth your time.  ",1,0,0.007296055555343628
-62,"Considering the relations off screen between Taylor and Stanwyck, it was surprising how little chemistry there was on screen between the two of them.  ",0,1,0.6518173813819885
-75,The dialogue is composed of things that make little sense.  ,0,1,0.5483396649360657
-81,"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.  ",0,1,0.5038629174232483
-84,"This movie contained an all-star cast, and what I loved the most was that it opened my eyes to see other actors who I haven't seen before.  ",1,0,0.059312790632247925
-86,Overall I rate this movie a 10 out of a 1-10 scale.  ,1,0,0.0745995044708252
-87,"Lifetime does not air it enough, so if anyone knows what store sells it let me know because this is a must-have.  ",1,0,0.21167218685150146
-90,"Totally different, with loads of understatement and black comedy, this is a film few get to see, but those who do will remember it.  ",1,0,0.3168259263038635
-92,But this movie really got to me.  ,1,0,0.27828940749168396
-93,See it.  ,1,0,0.49446359276771545
-94,"I really hope the team behind this movie makes more movies, and that they will continue to do so in their own, some kinda weird style.  ",1,0,0.05230104923248291
-95,"And I forgot: The Casting here i superb, with Trond Fausa Aurvåg being perfect in the role as the Bothersome Man, who doesn't understand where he is, what he is doing and why.  ",1,0,0.42788299918174744
-98,"Initially the local sites in the film, which was filmed here in Buffalo, intrigued me.  ",1,0,0.22199368476867676
-99,Later I found myself lost in the power of the film.  ,1,0,0.0445077121257782
-100,The entire audience applauded at the conclusion of the film.  ,1,0,0.10485893487930298
-103,The rest of the cast also play well.  ,1,0,0.33158865571022034
-124,"Full of unconvincing cardboard characters it is blandly written by Edward Chodorov, who also produced, and is surprisingly directed by Jean Negulesco from whom one would expect a great deal more.  ",0,1,0.8126294612884521
-132,"steve martin delivers a really funny performance of a middle-aged, upper class, uptight white guy.  ",1,0,0.23331007361412048
-141,This second appearance of Mickey Mouse (following the silent PLANE CRAZY earlier that year) is probably his most famous film--mostly because it was so ground-breaking.  ,1,0,0.018601804971694946
-142,"While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.  ",1,0,0.15768331289291382
-144,"It's just adorable seeing Mickey playing ""Turkey in the Straw"" in a highly imaginative (if occasionally cruel) way.  ",1,0,0.26129424571990967
-169,"Okay, I like to consider myself a fair critic, so I'll give credit where credit's due--the creature effects were actually pretty cool.  ",1,0,0.1411946713924408
-170,"Gotta love those close-ups of slimy, drooling teeth!  ",1,0,0.200463205575943
-178,"With the originality and freshness of the first movie now spent, this remake had little else to offer.  ",0,1,0.5608968734741211
-181,"However, here there was no decent acting, action or location work to balance things up.  ",0,1,0.6262036561965942
-183,It failed to convey the broad sweep of landscapes that were a great part of the original.  ,0,1,0.995589017868042
-194,The memories are murky but I can only say that I enjoyed every single episode and product related to the show.  ,1,0,0.36162424087524414
-195,"Easily, none other cartoon made me laugh in a tender way (before getting into dark sitcoms oriented for teenagers).  ",1,0,0.2820194363594055
-196,The characters were all funny and had the peculiarity of not having a true lead character.  ,1,0,0.08903303742408752
-197,Every single character was hilarious and deserved to be called a lead.  ,1,0,0.4398126006126404
-211,I believe that Pitch Black was done well.  ,1,0,0.05025318264961243
-212,"The characters are interesting and you want to find out more about them the longer the movie goes on, and I think people will be surprised by who does and doesn't make it.  ",1,0,0.012444674968719482
-219,Don't miss it.  ,1,0,0.11804327368736267
-220,"This is a masterful piece of film-making, with many themes simmering and occasionally boiling over in this warts and all study of the poet's bohemian, self-indulgent wartime years that span the aerial bombardments of London and the outward tranquillity of a Welsh coastal retreat - the borderlines between friendship, lust and love, dedication to art and experience versus practical concerns, jealousy, rivalry, cowardice and egotism versus heroism and self-sacrifice and more.  ",1,0,0.03160145878791809
-221,"A mature, subtle script that suggests and occasionally brings into dramatic focus the underlying tensions is well served by perfect performances (apart from the odd inappropriate smiling that Keira Knightley is prone to, though perhaps under direction this time as the other characters themselves often mention it).  ",1,0,0.05133318901062012
-232,I'll give this film 10 out of 10!  ,1,0,0.24000340700149536
-233,"I know that Jim O'Connor was very energetic and that nobody could be as much as him, but George was well dull.  ",0,1,0.5592412948608398
-235,"Lovely little thriller from Hitchcock, with lots of nice shenanigans surrounding a murdered spy, a kidnapped child, a nasty church, a foreign plot and some random taxidermists.  ",1,0,0.005246520042419434
-236,"Jimmy Stewart is as ever a great hero for Hitchcock, the story rips along to its cool climax at an embassy function, but it lacks the brooding menace of Hitchcock's black and white, low-budget original.  ",1,0,0.05493617057800293
-238,I have to say that this film was excellently produced and tops the ratings as a typical sci fi film!  ,1,0,0.23020458221435547
-241,It's a campy sort of film that's a joy to watch.  ,1,0,0.45454394817352295
-242,There's barely a boring moment in the film and there are plenty of humorous parts.  ,1,0,0.05800178647041321
-249,I believe every one should see this movie as I think few people outside of South Africa understand its past and what is being attempted in the Truth and Reconciliation process.  ,1,0,0.0037564635276794434
-252,Don't be afraid of subtitles........ its worth a little aversion therapy 10/10  ,1,0,0.0033282339572906494
-257,"Macbeth (Jason Connery) moved me to tears with his final monolog (out brief candle, out)He gave the sphere of moral decay and dark forces a human face, which makes it the more interesting.  ",1,0,0.27692070603370667
-258,"Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil.  ",1,0,0.33559751510620117
-259,"If you love death and decay, and Shakespears lyrics... this is the one.  ",1,0,0.3773219883441925
-265,"Unless you're just out to visually ""collect"" all extant films of Austen's work, you can skip this one.  ",0,1,0.5596858263015747
-272,"It felt like a very gripping, intelligent stage play (but without the overly theatrical feeling one actually gets from watching people on a stage) which plays on everyone's terror of a white lie escalating to monstrous consequences.  ",1,0,0.00040847063064575195
-273,All of the main players are mesmerising.  ,1,0,0.2283584177494049
-274,Tom Wilkinson broke my heart at the end... and everyone else's judging by the amount of fumbling for hankies and hands going up to faces among males and females alike.  ,1,0,0.0217723548412323
-277,GO AND SEE IT!  ,1,0,0.49446359276771545
-279,The aerial scenes were well-done.  ,1,0,0.34078413248062134
-281,"The film gives meaning to the phrase, ""Never in the history of human conflict has so much been owed by so many to so few.  ",1,0,0.095181405544281
-292,This is one of Peter Watkins most accessible films.  ,1,0,0.49266964197158813
-294,You wont regret it!  ,1,0,0.07478389143943787
-299,") very bad performance plays Angela Bennett, a computer expert who is at home all the time.  ",0,1,0.7886961698532104
-308,Never heard of any of them except Cole who was totally unbelievable in the part.  ,0,1,0.5243204236030579
-310,The stories were as unbelievable as the actors.  ,0,1,0.7830841541290283
-313,The success of the film depends on the casting of Sydney Greenstreet as the Alexander Yardley character.  ,1,0,0.4135885536670685
-331,"It handles some tough issues with dignity and grace, and, of course, has (shocking spoiler here!  ",1,0,0.03369152545928955
-334,It's one of the movies I need to see whenever it comes on TV...never mind the fact that I already have it memorized!  ,1,0,0.32233548164367676
-335,Nothing new there.  ,0,1,0.6493624448776245
-338,The plot has more holes than a pair of fishnet stockings and the direction and editing is astonishingly ham fisted.  ,0,1,0.9683523178100586
-343,"Tom Wilkinson's character is a man who is not prepared for the ordeal that is about to begin, but he takes the matter in hand as the story progresses, and this great actor gives a performance that makes you feel the character's anguish and suffering.  ",1,0,0.2893105745315552
-345,"Despite the pans of reviewers, I liked this movie.  ",1,0,0.04380097985267639
-349,I guess I liked the details of his dysfunction--he was believable.  ,1,0,0.4557090997695923
-354,It is rare when a film-maker takes the time to tell a worthy moral tale with care and love that doesn't fall into the trap of being overly syrupy or over indulgent.  ,1,0,0.01625928282737732
-358,A standout scene.  ,1,0,0.415893018245697
-362,The movie was very interesting from beginning to the end.  ,1,0,0.4483899772167206
-364,This movie is also revealing.  ,1,0,0.1502896249294281
-365,"Personally, I think it shows that people should learn to find a compromise them self without involving other people into issue.  ",1,0,0.02619558572769165
-368,PS the only scene in the movie that was cool is when the central character finds her room blown up.  ,1,0,0.2672187089920044
-372,"You learn a lot about the real inside emotions of people in this movie, and a lot about the movie business itself.  ",1,0,0.058805376291275024
-373,"The movie in movie situations in the beginning and through the game that is played with her by the ""acting coach"" are fascinating.  ",1,0,0.24294838309288025
-375,You won't forget this movie!  ,1,0,0.039016932249069214
-377,The film has an ultra-cheap look to it.  ,0,1,0.7840335369110107
-379,None of them are engaging or exciting.  ,0,1,0.9841305017471313
-383,But the duet between the astronaut and his doctor at the beginning of the movie is a perfect exchange if one considers that this movie was made well into the Cold War and the astronaut's biggest fear is that he has crashed in the USSR.  ,1,0,0.004421263933181763
-386,I love the Scream movies and all horror movies and this one ranks way up there.  ,1,0,0.2790651321411133
-387,If you want a real scare rent this one!  ,1,0,0.08140072226524353
-390,"As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.  ",1,0,0.128635436296463
-391,"This film highlights the fundamental flaws of the legal process, that it's not about discovering guilt or innocence, but rather, is about who presents better in court.  ",1,0,0.08397480845451355
-393,This mostly routine fact-based TV drama gets a boost from the fine performance by Cole.  ,1,0,0.4244009852409363
-394,"Predictable, but not a bad watch.  ",1,0,0.000705718994140625
-396,She carries the movie well.  ,1,0,0.41023194789886475
-408,"When a song could explain the emotions of the subjects better, such as when Jay Adams' unfortunate life was a subject of talk, the song Old Man by Neil Young was played, which evokes many emotions.  ",1,0,0.10897952318191528
-410,"Of course the footage from the 70s was grainy, but that only enhanced the film.  ",1,0,0.02469542622566223
-417,You will leave the theater wanting to go out and dance under the stars.  ,1,0,0.353534072637558
-418,"The acting, as you'd expect from this cast, is top notch.  ",1,0,0.4401654005050659
-423,I struggle to find anything bad to say about it.  ,1,0,0.03892287611961365
-424,"Mark my words, this is one of those cult films like Evil Dead 2 or Phantasm that people will still be discovering and falling in love with 20, 30, 40 years down the line.  ",1,0,0.25315746665000916
-425,"It's pretty surprising that this wonderful film was made in 1949, as Hollywood generally had its collective heads in the sand concerning black and white issues at that time.  ",1,0,0.3904261589050293
-426,"The film deserves strong kudos for taking this stand, for having exceptional acting from its mostly lesser-known cast and for the super-intelligent script that doesn't insult the audience or take the easy way out when it comes to white racism.  ",1,0,0.01420775055885315
-428,Juano Hernandez (an exceptional actor who played supporting roles in many films of the era) is a proud black man who is accused of murdering a white man in the South.  ,1,0,0.33983126282691956
-431,See both films if you can.  ,1,0,0.32868844270706177
-432,"It was that year, however, that reminded us that Huston was still at the top of his game as evinced by his faithful adaptation of James Joyce's acclaimed novella ""The Dead.  ",1,0,0.2621709108352661
-433,"Feelings, thoughts...Gabriel's discomfort during the dance...all these intangibles leap to life and come within the viewer's grasp in Huston's portrayal.  ",1,0,0.41205695271492004
-442,This movie is possibly one of the most creative works of horror ever.  ,1,0,0.320888876914978
-443,"It has everything you could want... suspense, drama, comedy, confusing subplots, native americans, brain eating... If you're looking for the be-all, end-all of brainsucking movies, look no further.  ",1,0,0.0012566745281219482
-445,"Director Neil LaBute uses brutal violence to seperate dreams from reality, and along with the touching drama, and hilarious comedy, you can never tell what is going to happen next.  ",1,0,0.035601526498794556
-449,"There is, however, some pretty good acting (at least, for this type of film).  ",1,0,0.4409438371658325
-463,"Hopefully, the director James Cox can turn the short into a feature length film with the same cast, or win us over with a whole new film.  ",1,0,0.15181925892829895
-472,"Funny, clever, hip - just like Pray's previous film, Hype!  ",1,0,0.09571677446365356
-473,It was a long time that i didn't see a so charismatic actor on screen.  ,1,0,0.3191909193992615
-476,I rate this movie 9/10.  ,1,0,0.10062992572784424
-482,The two main characters may be two of the most believable children I ever saw put on screen.  ,1,0,0.3697226047515869
-486,The story is also both funny and poignant at times.  ,1,0,0.2957271933555603
-487,"People who like European films and ""art movies"" will like this movie.  ",1,0,0.37975597381591797
-490,"However, after finally watching this film, I realized that not only had I had a closed mind to the brilliance it depicts, I also found myself watching it over and over again.  ",1,0,0.11847776174545288
-491,"It's the one movie that never ceases to interest me, simply because it keeps me alert, as I try to attempt to decipher it's meanings.  ",1,0,0.05006486177444458
-493,"But if you liked movies like The Matrix (and better yet, their sequels) I think you'll appreciate the thought provoking, mindblowing experience this film will give you.  ",1,0,0.3388323187828064
-494,Think of the film being like a dream.  ,1,0,0.3266502618789673
-502,But it picked up speed and got right to the point.  ,1,0,0.39377927780151367
-503,"It showed exactly how the government and the scientist argued for humanity and the reasons of the ""gadget"".  ",1,0,0.09896105527877808
-508,"Their on-screen chemistry, critical to the entire film, is genuine.  ",1,0,0.49685290455818176
-510,"The writer, Gorman Bechard, undoubtedly did his homework because all references are industry and character-age appropriate.  ",1,0,0.09820055961608887
-512,"Each track commands sentiment, actually contributing to the scenes and characters.  ",1,0,0.05232596397399902
-513,Definitely worth seeing it's the sort of thought provoking film that forces you to question your own threshold of loneliness.  ,1,0,0.011385142803192139
-516,Enough can not be said of the remarkable animation in this film.  ,1,0,0.18035680055618286
-524,"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.  ",1,0,0.33968234062194824
-525,It is a very well acted and done TV Movie.  ,1,0,0.1175803542137146
-528,"It's a sad movie, but very good.  ",1,0,0.11109134554862976
-529,"If you have not seen this movie, I definitely recommend it!  ",1,0,0.4039771556854248
-534,It was a riot to see Hugo Weaving play a sex-obsessed gay real estate salesman who uses his clients' houses for his trysts with the flaming Darren (Tom Hollander).  ,1,0,0.3929644227027893
-537,Fans of the genre will be in heaven.  ,1,0,0.1436207890510559
+3,It's a feel-good film and that's how I felt when I came out of the cinema!  ,1,0,0.2486966848373413
+10,A world better than 95% of the garbage in the theatres today.  ,1,0,0.009364724159240723
+11,Her role was played well.  ,1,0,0.4395822286605835
+12,Not too screamy not to masculine but just right.  ,1,0,0.07727926969528198
+14,I would have casted her in that role after ready the script.  ,1,0,0.017605900764465332
+15,"As a European, the movie is a nice throwback to my time as a student in the 1980's and the experiences I had living abroad and interacting with other nationalities, although the circumstances were slightly different.  ",1,0,0.18189379572868347
+21,"This movie is excellent!Angel is beautiful and Scamp is adorable!His little yelps when hes scared,and the funniest parts are when:Scamp is caught under the curtain and when Angel and Scamp are singing 'Ive Never Had This Feeling Before'.I totally recommend this movie,its coming out on special edition on June 20.The cover has scamp on a garbage can and Angel underneath the lid.  ",1,0,0.09378907084465027
+36,"The soundtrack wasn't terrible, either.  ",1,0,0.034888654947280884
+43,The last 15 minutes of movie are also not bad as well.  ,1,0,0.0009611845016479492
+46,"I like Armand Assante & my cable company's summary sounded interesting, so I watched it, twice already, and probably will again.  ",1,0,0.024435758590698242
+47,I believe the screenwriter did a good job of tying up the loose ends.  ,1,0,0.43949949741363525
+48,My 8/10 score is mostly for the plot.  ,1,0,0.19711118936538696
+49,"I won't say any more - I don't like spoilers, so I don't want to be one, but I believe this film is worth your time.  ",1,0,0.001827329397201538
+62,"Considering the relations off screen between Taylor and Stanwyck, it was surprising how little chemistry there was on screen between the two of them.  ",0,1,0.6428082585334778
+75,The dialogue is composed of things that make little sense.  ,0,1,0.6778500080108643
+84,"This movie contained an all-star cast, and what I loved the most was that it opened my eyes to see other actors who I haven't seen before.  ",1,0,0.05451604723930359
+86,Overall I rate this movie a 10 out of a 1-10 scale.  ,1,0,0.03375422954559326
+87,"Lifetime does not air it enough, so if anyone knows what store sells it let me know because this is a must-have.  ",1,0,0.08472904562950134
+90,"Totally different, with loads of understatement and black comedy, this is a film few get to see, but those who do will remember it.  ",1,0,0.14226549863815308
+92,But this movie really got to me.  ,1,0,0.3166017532348633
+94,"I really hope the team behind this movie makes more movies, and that they will continue to do so in their own, some kinda weird style.  ",1,0,0.026046693325042725
+95,"And I forgot: The Casting here i superb, with Trond Fausa Aurvåg being perfect in the role as the Bothersome Man, who doesn't understand where he is, what he is doing and why.  ",1,0,0.2541179955005646
+98,"Initially the local sites in the film, which was filmed here in Buffalo, intrigued me.  ",1,0,0.10353627800941467
+99,Later I found myself lost in the power of the film.  ,1,0,0.028006255626678467
+100,The entire audience applauded at the conclusion of the film.  ,1,0,0.037274330854415894
+103,The rest of the cast also play well.  ,1,0,0.28564298152923584
+132,"steve martin delivers a really funny performance of a middle-aged, upper class, uptight white guy.  ",1,0,0.08049514889717102
+141,This second appearance of Mickey Mouse (following the silent PLANE CRAZY earlier that year) is probably his most famous film--mostly because it was so ground-breaking.  ,1,0,0.0018131732940673828
+142,"While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.  ",1,0,0.012542307376861572
+144,"It's just adorable seeing Mickey playing ""Turkey in the Straw"" in a highly imaginative (if occasionally cruel) way.  ",1,0,0.25232017040252686
+169,"Okay, I like to consider myself a fair critic, so I'll give credit where credit's due--the creature effects were actually pretty cool.  ",1,0,0.06833288073539734
+170,"Gotta love those close-ups of slimy, drooling teeth!  ",1,0,0.20497286319732666
+181,"However, here there was no decent acting, action or location work to balance things up.  ",0,1,0.5493001937866211
+183,It failed to convey the broad sweep of landscapes that were a great part of the original.  ,0,1,0.9907439947128296
+194,The memories are murky but I can only say that I enjoyed every single episode and product related to the show.  ,1,0,0.10024511814117432
+195,"Easily, none other cartoon made me laugh in a tender way (before getting into dark sitcoms oriented for teenagers).  ",1,0,0.24911144375801086
+196,The characters were all funny and had the peculiarity of not having a true lead character.  ,1,0,0.07256466150283813
+197,Every single character was hilarious and deserved to be called a lead.  ,1,0,0.2128748893737793
+211,I believe that Pitch Black was done well.  ,1,0,0.032198041677474976
+212,"The characters are interesting and you want to find out more about them the longer the movie goes on, and I think people will be surprised by who does and doesn't make it.  ",1,0,0.007742553949356079
+219,Don't miss it.  ,1,0,0.12138444185256958
+220,"This is a masterful piece of film-making, with many themes simmering and occasionally boiling over in this warts and all study of the poet's bohemian, self-indulgent wartime years that span the aerial bombardments of London and the outward tranquillity of a Welsh coastal retreat - the borderlines between friendship, lust and love, dedication to art and experience versus practical concerns, jealousy, rivalry, cowardice and egotism versus heroism and self-sacrifice and more.  ",1,0,0.014163225889205933
+221,"A mature, subtle script that suggests and occasionally brings into dramatic focus the underlying tensions is well served by perfect performances (apart from the odd inappropriate smiling that Keira Knightley is prone to, though perhaps under direction this time as the other characters themselves often mention it).  ",1,0,0.06068757176399231
+230,"I had always known that Errol Flynn was a brilliant actor as he was my dads favourite actor, and I grew up watching his films as a child.  ",1,0,0.3762750029563904
+231,But it wasn't until I watched this film that I realised how great he actually was.  ,1,0,0.20017075538635254
+232,I'll give this film 10 out of 10!  ,1,0,0.2746030390262604
+233,"I know that Jim O'Connor was very energetic and that nobody could be as much as him, but George was well dull.  ",0,1,0.6863237619400024
+235,"Lovely little thriller from Hitchcock, with lots of nice shenanigans surrounding a murdered spy, a kidnapped child, a nasty church, a foreign plot and some random taxidermists.  ",1,0,0.005290776491165161
+236,"Jimmy Stewart is as ever a great hero for Hitchcock, the story rips along to its cool climax at an embassy function, but it lacks the brooding menace of Hitchcock's black and white, low-budget original.  ",1,0,0.03757861256599426
+238,I have to say that this film was excellently produced and tops the ratings as a typical sci fi film!  ,1,0,0.08169493079185486
+241,It's a campy sort of film that's a joy to watch.  ,1,0,0.2804076075553894
+242,There's barely a boring moment in the film and there are plenty of humorous parts.  ,1,0,0.006146728992462158
+249,I believe every one should see this movie as I think few people outside of South Africa understand its past and what is being attempted in the Truth and Reconciliation process.  ,1,0,0.0009638071060180664
+252,Don't be afraid of subtitles........ its worth a little aversion therapy 10/10  ,1,0,0.0021615028381347656
+256,"Very true to Shakespear, and a 'must' for all Shakespear fans.  ",1,0,0.4384913742542267
+257,"Macbeth (Jason Connery) moved me to tears with his final monolog (out brief candle, out)He gave the sphere of moral decay and dark forces a human face, which makes it the more interesting.  ",1,0,0.04784184694290161
+258,"Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil.  ",1,0,0.33849236369132996
+259,"If you love death and decay, and Shakespears lyrics... this is the one.  ",1,0,0.4225890338420868
+272,"It felt like a very gripping, intelligent stage play (but without the overly theatrical feeling one actually gets from watching people on a stage) which plays on everyone's terror of a white lie escalating to monstrous consequences.  ",1,0,0.00012758374214172363
+273,All of the main players are mesmerising.  ,1,0,0.24318531155586243
+274,Tom Wilkinson broke my heart at the end... and everyone else's judging by the amount of fumbling for hankies and hands going up to faces among males and females alike.  ,1,0,0.0074714720249176025
+279,The aerial scenes were well-done.  ,1,0,0.33187854290008545
+281,"The film gives meaning to the phrase, ""Never in the history of human conflict has so much been owed by so many to so few.  ",1,0,0.07090610265731812
+291,"Shot in the Southern California desert using his patent faux documentary style, Watkins creates a film like no other.  ",1,0,0.3415350019931793
+294,You wont regret it!  ,1,0,0.14512452483177185
+299,") very bad performance plays Angela Bennett, a computer expert who is at home all the time.  ",0,1,0.7156500220298767
+310,The stories were as unbelievable as the actors.  ,0,1,0.6949321031570435
+313,The success of the film depends on the casting of Sydney Greenstreet as the Alexander Yardley character.  ,1,0,0.4152529537677765
+331,"It handles some tough issues with dignity and grace, and, of course, has (shocking spoiler here!  ",1,0,0.027342259883880615
+334,It's one of the movies I need to see whenever it comes on TV...never mind the fact that I already have it memorized!  ,1,0,0.24265068769454956
+335,Nothing new there.  ,0,1,0.7150444984436035
+338,The plot has more holes than a pair of fishnet stockings and the direction and editing is astonishingly ham fisted.  ,0,1,0.9526853561401367
+340,I just saw this film and I recommend it.  ,1,0,0.3755781054496765
+343,"Tom Wilkinson's character is a man who is not prepared for the ordeal that is about to begin, but he takes the matter in hand as the story progresses, and this great actor gives a performance that makes you feel the character's anguish and suffering.  ",1,0,0.12700486183166504
+345,"Despite the pans of reviewers, I liked this movie.  ",1,0,0.03078630566596985
+349,I guess I liked the details of his dysfunction--he was believable.  ,1,0,0.4103424847126007
+354,It is rare when a film-maker takes the time to tell a worthy moral tale with care and love that doesn't fall into the trap of being overly syrupy or over indulgent.  ,1,0,0.004285186529159546
+358,A standout scene.  ,1,0,0.4153382182121277
+361,It's still wild stuff though and is highly recommended to fans of giallo cinema.  ,1,0,0.32144492864608765
+362,The movie was very interesting from beginning to the end.  ,1,0,0.32080933451652527
+364,This movie is also revealing.  ,1,0,0.13507327437400818
+365,"Personally, I think it shows that people should learn to find a compromise them self without involving other people into issue.  ",1,0,0.01949697732925415
+368,PS the only scene in the movie that was cool is when the central character finds her room blown up.  ,1,0,0.17511653900146484
+372,"You learn a lot about the real inside emotions of people in this movie, and a lot about the movie business itself.  ",1,0,0.03036901354789734
+373,"The movie in movie situations in the beginning and through the game that is played with her by the ""acting coach"" are fascinating.  ",1,0,0.18138554692268372
+375,You won't forget this movie!  ,1,0,0.03641578555107117
+377,The film has an ultra-cheap look to it.  ,0,1,0.8378889560699463
+379,None of them are engaging or exciting.  ,0,1,0.9793915748596191
+383,But the duet between the astronaut and his doctor at the beginning of the movie is a perfect exchange if one considers that this movie was made well into the Cold War and the astronaut's biggest fear is that he has crashed in the USSR.  ,1,0,0.0004539787769317627
+386,I love the Scream movies and all horror movies and this one ranks way up there.  ,1,0,0.18768510222434998
+387,If you want a real scare rent this one!  ,1,0,0.019482284784317017
+390,"As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.  ",1,0,0.027007699012756348
+391,"This film highlights the fundamental flaws of the legal process, that it's not about discovering guilt or innocence, but rather, is about who presents better in court.  ",1,0,0.07800781726837158
+393,This mostly routine fact-based TV drama gets a boost from the fine performance by Cole.  ,1,0,0.22967851161956787
+394,"Predictable, but not a bad watch.  ",1,0,0.0001569688320159912
+396,She carries the movie well.  ,1,0,0.4626252353191376
+408,"When a song could explain the emotions of the subjects better, such as when Jay Adams' unfortunate life was a subject of talk, the song Old Man by Neil Young was played, which evokes many emotions.  ",1,0,0.02718403935432434
+410,"Of course the footage from the 70s was grainy, but that only enhanced the film.  ",1,0,0.011520355939865112
+417,You will leave the theater wanting to go out and dance under the stars.  ,1,0,0.16766425967216492
+418,"The acting, as you'd expect from this cast, is top notch.  ",1,0,0.40375739336013794
+419,"The characters are fleshed out surprisingly well, particularly Grimes and Blake, and all the actors deliver their sharply scripted lines with just the right amount of deadpan tongue in cheek to make the dialogue both hilarious and realistic.  ",1,0,0.4670698344707489
+422,It's a long time since I was so entertained by a movie.  ,1,0,0.48161575198173523
+423,I struggle to find anything bad to say about it.  ,1,0,0.02844443917274475
+424,"Mark my words, this is one of those cult films like Evil Dead 2 or Phantasm that people will still be discovering and falling in love with 20, 30, 40 years down the line.  ",1,0,0.05349096655845642
+425,"It's pretty surprising that this wonderful film was made in 1949, as Hollywood generally had its collective heads in the sand concerning black and white issues at that time.  ",1,0,0.1632034182548523
+426,"The film deserves strong kudos for taking this stand, for having exceptional acting from its mostly lesser-known cast and for the super-intelligent script that doesn't insult the audience or take the easy way out when it comes to white racism.  ",1,0,0.006610125303268433
+428,Juano Hernandez (an exceptional actor who played supporting roles in many films of the era) is a proud black man who is accused of murdering a white man in the South.  ,1,0,0.22706717252731323
+431,See both films if you can.  ,1,0,0.37015509605407715
+432,"It was that year, however, that reminded us that Huston was still at the top of his game as evinced by his faithful adaptation of James Joyce's acclaimed novella ""The Dead.  ",1,0,0.05658575892448425
+433,"Feelings, thoughts...Gabriel's discomfort during the dance...all these intangibles leap to life and come within the viewer's grasp in Huston's portrayal.  ",1,0,0.050771117210388184
+442,This movie is possibly one of the most creative works of horror ever.  ,1,0,0.4290798306465149
+443,"It has everything you could want... suspense, drama, comedy, confusing subplots, native americans, brain eating... If you're looking for the be-all, end-all of brainsucking movies, look no further.  ",1,0,0.0004183053970336914
+445,"Director Neil LaBute uses brutal violence to seperate dreams from reality, and along with the touching drama, and hilarious comedy, you can never tell what is going to happen next.  ",1,0,0.01344233751296997
+449,"There is, however, some pretty good acting (at least, for this type of film).  ",1,0,0.41325926780700684
+463,"Hopefully, the director James Cox can turn the short into a feature length film with the same cast, or win us over with a whole new film.  ",1,0,0.0652487576007843
+467,"Not much dialogue, not much music, the whole film was shot as elaborately and aesthetically like a sculpture.  ",1,0,0.17324727773666382
+472,"Funny, clever, hip - just like Pray's previous film, Hype!  ",1,0,0.026776015758514404
+473,It was a long time that i didn't see a so charismatic actor on screen.  ,1,0,0.4022446870803833
+476,I rate this movie 9/10.  ,1,0,0.10780024528503418
+482,The two main characters may be two of the most believable children I ever saw put on screen.  ,1,0,0.2856772840023041
+486,The story is also both funny and poignant at times.  ,1,0,0.08572012186050415
+487,"People who like European films and ""art movies"" will like this movie.  ",1,0,0.4411740303039551
+490,"However, after finally watching this film, I realized that not only had I had a closed mind to the brilliance it depicts, I also found myself watching it over and over again.  ",1,0,0.016133993864059448
+491,"It's the one movie that never ceases to interest me, simply because it keeps me alert, as I try to attempt to decipher it's meanings.  ",1,0,0.019723892211914062
+493,"But if you liked movies like The Matrix (and better yet, their sequels) I think you'll appreciate the thought provoking, mindblowing experience this film will give you.  ",1,0,0.10245579481124878
+494,Think of the film being like a dream.  ,1,0,0.12899869680404663
+496,Both Rickman and Stowe play their roles to the hilt in this tale of a childrens' book writer who-- maybe?-- has written a subversive tract.  ,1,0,0.3285576403141022
+502,But it picked up speed and got right to the point.  ,1,0,0.3238462209701538
+503,"It showed exactly how the government and the scientist argued for humanity and the reasons of the ""gadget"".  ",1,0,0.08940115571022034
+508,"Their on-screen chemistry, critical to the entire film, is genuine.  ",1,0,0.3392001986503601
+510,"The writer, Gorman Bechard, undoubtedly did his homework because all references are industry and character-age appropriate.  ",1,0,0.07266491651535034
+512,"Each track commands sentiment, actually contributing to the scenes and characters.  ",1,0,0.015193581581115723
+513,Definitely worth seeing it's the sort of thought provoking film that forces you to question your own threshold of loneliness.  ,1,0,0.004679083824157715
+516,Enough can not be said of the remarkable animation in this film.  ,1,0,0.15198549628257751
+524,"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.  ",1,0,0.08507180213928223
+525,It is a very well acted and done TV Movie.  ,1,0,0.15995773673057556
+527,I keep watching it over and over.  ,1,0,0.47159454226493835
+528,"It's a sad movie, but very good.  ",1,0,0.06532144546508789
+529,"If you have not seen this movie, I definitely recommend it!  ",1,0,0.34609854221343994
+537,Fans of the genre will be in heaven.  ,1,0,0.04278486967086792

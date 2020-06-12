@@ -62,7 +62,7 @@ if __name__ == "__main__":
     clf = dl_model(model = args.model, maxlen = MAXLEN , embedding_layer = embedding_layer, 
                    x = x_train , y = y_train , out_dir = out_dir)
     
-    metrics(df_test, clf ,x_test, y_test , thrsh = 0.5, clf_name = args.model, out_dir = out_dir)
+    metrics(df_test, clf ,x_test, y_test , thrsh = 0.3, clf_name = args.model, out_dir = out_dir)
          
     
     print(x_train.shape , x_test.shape)
