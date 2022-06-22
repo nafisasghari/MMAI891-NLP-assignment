@@ -3,7 +3,7 @@ gensim==3.8.3
 tqdm==4.31.1
 pandas==0.24.2
 seaborn==0.10.0
-numpy==1.16.2
+numpy==1.22.0
 keras==2.3.1
 language_detector==5.0.2
 nltk==3.5
