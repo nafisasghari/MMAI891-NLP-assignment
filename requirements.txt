@@ -6,7 +6,7 @@ seaborn==0.10.0
 numpy==1.16.2
 keras==2.3.1
 language_detector==5.0.2
-nltk==3.5
+nltk==3.10.0
 scikit_learn==0.23.1
 spacy==2.2.4
 symspellpy==6.5.2
